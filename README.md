@@ -2,10 +2,10 @@
 
 Build Stack Screenshots
 
-![](https://imgur.com/EAeHKJA)
+![1](https://imgur.com/EAeHKJA)
 
-![](https://imgur.com/UyHs7ta)
+![2](https://imgur.com/UyHs7ta)
 
-![](https://imgur.com/aG1da59)
+![3](https://imgur.com/aG1da59)
 
-![](https://imgur.com/YUldcfu)
+![4](https://imgur.com/YUldcfu)
