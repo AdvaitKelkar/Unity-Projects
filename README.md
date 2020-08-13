@@ -2,10 +2,10 @@
 
 Build Stack Screenshots
 
-[1](https://imgur.com/EAeHKJA)
+[Primary Mechanic Of Shrinking The Tile](https://imgur.com/EAeHKJA)
 
-[2](https://imgur.com/UyHs7ta)
+[Lerping Tile Colours](https://imgur.com/UyHs7ta)
 
-[3](https://imgur.com/aG1da59)
+[Increase In Tile Size For Combos](https://imgur.com/aG1da59)
 
-[4](https://imgur.com/YUldcfu)
+[Gameplay GIF](https://imgur.com/YUldcfu)
