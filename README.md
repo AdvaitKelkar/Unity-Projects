@@ -13,3 +13,4 @@
 **aa Screenshots**
 
 **Colour Switch GIF**
+[Gameplay GIF](https://imgur.com/8vtC8su)
