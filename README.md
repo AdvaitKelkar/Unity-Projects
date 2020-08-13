@@ -11,6 +11,13 @@
 [Gameplay GIF](https://imgur.com/YUldcfu)
 
 **aa Screenshots**
+[1](https://imgur.com/uf4894o)
+
+[2](https://imgur.com/oKODw5F)
+
+[Game Over Screen](https://imgur.com/zB7lBml)
+
+[Gameplay GIF](https://imgur.com/qAkfQRX)
 
 **Colour Switch GIF**
 [Gameplay GIF](https://imgur.com/8vtC8su)
